@@ -23,8 +23,7 @@ Here's how to install the app in your Android device:
 - **Sudden Death** - how many primes can you identify correctly before making your first mistake? (Coming Soon!)
 
 ## Video Demo
-<p align="center"
-  [![demo vid](https://i9.ytimg.com/vi/9mqXXRNdbfw/mq2.jpg?sqp=CLzn7t0F&rs=AOn4CLDY4WBgp4GX_MPQr-fzVs5psX0YDQ)](https://youtu.be/9mqXXRNdbfw)
+<p align="center">
   <a href="https://youtu.be/9mqXXRNdbfw" target="_blank"><img src="https://i9.ytimg.com/vi/9mqXXRNdbfw/mq2.jpg?sqp=CLzn7t0F&rs=AOn4CLDY4WBgp4GX_MPQr-fzVs5psX0YDQ" alt="demo vid" /></a>
 </p>
 
