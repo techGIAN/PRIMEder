@@ -22,6 +22,9 @@ Here's how to install the app in your Android device:
 - **Timed Mode** - how many primes can you identify correctly in 60 seconds? (Coming Soon!)
 - **Sudden Death** - how many primes can you identify correctly before making your first mistake? (Coming Soon!)
 
+## Video Demo
+[![demo vid](https://i9.ytimg.com/vi/9mqXXRNdbfw/mq2.jpg?sqp=CLzn7t0F&rs=AOn4CLDY4WBgp4GX_MPQr-fzVs5psX0YDQ)](https://youtu.be/9mqXXRNdbfw)
+
 ## License
 Apache License <br />
 Version 2.0, January 2004 <br />
